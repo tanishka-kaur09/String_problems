@@ -38,4 +38,5 @@ int main(){
     string s;
     cin>>s;
     cout<<longestPalindrome(s);
+    return 0;
 }

@@ -17,4 +17,5 @@ int main(){
     string s;
     cin>>s;
     cout<<"fisrt unique element is at index: "<<firstUniqChar(s);
+    return 0;
 }

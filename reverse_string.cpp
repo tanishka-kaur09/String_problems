@@ -6,7 +6,6 @@ int main(){
     cout<<s<<endl;
     int start=0;
     // int end=s.size()-1;
-    
     ind end=0;
     while(s[end]!="\0")
     end++;
@@ -19,4 +18,5 @@ int main(){
     }
 
     cout<<s;
+    return 0;
 }
